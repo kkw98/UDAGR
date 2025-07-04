@@ -5,7 +5,7 @@ From Indoor to Outdoor: Unsupervised Domain Adaptive Gait Recognition
 ## Dataset
 ### MARS-Gait
 - [[Google Drive](https://drive.google.com/file/d/1THFqqDNsldha1UtMfwKvDED9I4U86uYi/view?usp=sharing)]
-- [[Baiduyun](https://pan.baidu.com)] password: 4tiu
+- [[Baiduyun](https://pan.baidu.com/s/1M6tMAJGHbhtNl1fdJNzdqQ)] password: mea7
 
 
 ## Acknowledgement
